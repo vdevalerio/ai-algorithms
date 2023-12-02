@@ -6,13 +6,13 @@ The algorithms were selected based on the listed algorithms in [Scikit Learn](ht
 	1. Linear Models								TODO
 	2. Linear and Quadratic Discriminant Analysis					TODO
 	3. Kernel Ridge Regression							TODO
-	4. Support Vector Machines							TODO
+	4. Support Vector Machines							DONE
 	5. Stochastic Gradient Descent							TODO
 	6. Nearest Neighbors								TODO
 	7. Gaussian Proccess								TODO
 	8. Cross Decomposition								TODO
-	9. Naive Bayes									TODO
-	10. Decision Trees								TODO
+	9. Naive Bayes									DONE
+	10. Decision Trees								DONE
 	11. Ensembles: Gradient boosting, random forests, bagging, voting, stacking	TODO
 	12. Multiclass and Multioutput Algorithms					TODO
 	13. Feature Selection								TODO
