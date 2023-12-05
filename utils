@@ -1,0 +1,3 @@
+command to generate HTML from .ipynb: 
+	jupyter nbconvert <notebook.ipynb> --to slides --SlidesExporter.reveal_scroll=True --no-prompt --TagRemovePreprocessor.remove_input_tags='{"to_remove"}' --post serve
+
